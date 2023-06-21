@@ -1,6 +1,6 @@
 # csd-was-taken.github.io
 
-hey yeah this is just hosting my personal website (wii.gay). I plan on using basic html and javascript because 1, maintain compatibility with old shit because i want to, and 2 im not smart
+hey yeah this is just hosting my personal website (wii.gay). I plan on using basic html and javascript 1, to maintain compatibility with old shit because i want to, and 2 im not smart
 
 TODO:
 * Add about me
