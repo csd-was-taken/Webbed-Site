@@ -10,3 +10,4 @@ TODO:
 * Link to websites of my friends
 * Add a list of media recommendations
 * mirror browser exploits to hack game consoles, because why not
+* RSS feed for when the website updates
