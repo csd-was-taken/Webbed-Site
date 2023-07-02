@@ -1,6 +1,6 @@
-# csd-was-taken.github.io
+# wii.gay
 
-hey yeah this is just hosting my personal website (wii.gay). I plan on using basic html and javascript 1, to maintain compatibility with old shit because i want to, and 2 im not smart
+hey yeah this is just hosting my personal website. I plan on using basic html and javascript because im not smart but also to maintain compatibility with old shit.
 
 TODO:
 * Add about me
@@ -8,6 +8,7 @@ TODO:
 * Host some files
 * Add blog section i will use maybe once a year (maybe i'll put reviews there or something)
 * Link to websites of my friends
-* Add a list of media recommendations
+* Add a list of media recommendations (part of the reviews)
 * mirror browser exploits to hack game consoles, because why not
 * RSS feed for when the website updates
+* List of other URLs i own
