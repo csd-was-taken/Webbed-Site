@@ -1,0 +1,40 @@
+body {
+	background-color: rgb(184, 134, 245);
+	cursor: url('cursors/wii-pointer-ccw.cur'), auto;
+}
+h1{
+	margin-top: 5px;
+	font-family: Comic Sans ms;
+	text-align: center;
+}
+a:link {
+  color: rgb(255, 0, 242);
+  text-decoration: none;
+}
+a:visited {
+    color: rgb(115, 0, 255);
+    text-decoration: none;
+}
+a:hover {
+    color: rgba(0, 0, 0, 0);
+    text-decoration: underline;
+	cursor: url('cursors/wii-pointer-blue-ccw.cur'), auto;
+}
+
+hr {
+	color: rgb(115, 0, 255);
+	max-width: 1100px;
+	width: 90%;
+	margin: 15 100;
+	text-align: left;
+}
+nav{
+	text-align: center;
+}
+
+img.wiipng{
+	display: block;
+	width: 200px;
+	height: 200px;
+	margin: auto;
+}
