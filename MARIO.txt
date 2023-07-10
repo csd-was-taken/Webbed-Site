@@ -1,5 +1,9 @@
 Donkey Kong (Arcade) ✅
+<<<<<<< HEAD
 Donkey Kong Jr. (Arcade) ✅
+=======
+Donkey Kong Jr. (Arcade)
+>>>>>>> e1d84bcca71ca26741a00ea7ccb8efb0dcacf0b3
 Mario Bros. (Arcade)
 Wrecking Crew (NES)
 Super Mario Bros (NES)
@@ -105,4 +109,8 @@ Mario Party Superstars (Switch)
 Mario Strikers: Battle League (Switch)
 Mario + Rabbids: Sparks of Hope (Switch)
 
+<<<<<<< HEAD
 *If i can get a dance mat for a reasonable price
+=======
+*If i can get a dance mat for a reasonable price
+>>>>>>> e1d84bcca71ca26741a00ea7ccb8efb0dcacf0b3
