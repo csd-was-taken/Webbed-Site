@@ -3,7 +3,7 @@
 hey yeah this is just hosting my personal website. I plan on using basic html and javascript because im not smart but also to maintain compatibility with old shit.
 
 TODO:
-* Add about me
+* ~~Add about me~~
 * Add image gallery
 * Host some files
 * Add blog section i will use maybe once a year (maybe i'll put reviews there or something)
@@ -12,4 +12,4 @@ TODO:
 * mirror browser exploits to hack game consoles, because why not
 * RSS feed for when the website updates
 * List of other URLs i own
-* Music
+* Music player on every page, shuffles between music i like
