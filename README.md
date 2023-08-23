@@ -4,7 +4,9 @@ hey yeah this is just hosting my personal website. I plan on using basic html an
 
 TODO:
 * ~~Add about me~~
-* Add image gallery
+* ~~Add image gallery~~
+* ~~add contact page~~
+* add github link
 * Host some files
 * Add blog section i will use maybe once a year (maybe i'll put reviews there or something)
 * Link to websites of my friends
