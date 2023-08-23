@@ -7,6 +7,16 @@ h1{
 	font-family: Comic Sans ms;
 	text-align: center;
 }
+h2{
+	margin-top: 5px;
+	margin-bottom: 5px;
+	font-family: 'pixter-granularregular';
+    src: url('font/pixter_granular-webfont.woff2') format('woff2'),
+         url('font/pixter_granular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+	text-align: center;
+}
 a:link {
   color: rgb(255, 0, 242);
   text-decoration: none;
@@ -37,4 +47,21 @@ img.wiipng{
 	width: 200px;
 	height: 200px;
 	margin: auto;
+}
+
+@font-face {
+    font-family: 'pixter-granularregular';
+    src: url('font/pixter_granular-webfont.woff2') format('woff2'),
+         url('font/pixter_granular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+p {
+	font-family: 'pixter-granularregular';
+}
+
+nav {
+	font-family: 'pixter-granularregular';
 }
