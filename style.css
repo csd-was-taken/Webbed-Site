@@ -70,5 +70,5 @@ a[href^="http"]:not(:has(img)) {
 	background-image: url(assets/external-link.svg);
 	background-repeat: no-repeat;
 	background-position: top right;
-	padding-right: 0.8em;
+	padding-right: 0.5em;
 }
