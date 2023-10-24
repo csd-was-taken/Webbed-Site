@@ -6,7 +6,7 @@ TODO:
 * ~~Add about me~~
 * ~~Add image gallery~~
 * ~~add contact page~~
-* add github link
+* ~~add github link~~
 * Host some files
 * Add blog section i will use maybe once a year (maybe i'll put reviews there or something)
 * Link to websites of my friends
