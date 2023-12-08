@@ -72,3 +72,8 @@ a[href^="http"]:not(:has(img)) {
 	background-position: top right;
 	padding-right: 0.5em;
 }
+
+.navtext * {
+	all: initial;
+	font-family: 'pixter-granularregular';
+  }
