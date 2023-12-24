@@ -8,7 +8,7 @@ TODO:
 * ~~add contact page~~
 * ~~add github link~~
 * ~~Host some files~~ i realized i dont have much TO host lmao
-* Add blog section i will use maybe once a year (maybe i'll put reviews there or something)
+* ~~Add blog section i will use maybe once a year (maybe i'll put reviews there or something)~~
 * Link to websites of my friends
 * Add a list of media recommendations (part of the reviews)
 * mirror browser exploits to hack game consoles, because why not
