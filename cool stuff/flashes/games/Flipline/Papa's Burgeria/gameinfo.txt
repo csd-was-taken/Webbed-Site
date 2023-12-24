@@ -1,0 +1,19 @@
+Name:		Papa's Burgeria
+Developer:	Flipline Studios
+Size:		640 x 480
+Screenshots:	http://www.flipline.com/games/papasburgeria/screenshots.html
+Category:	Strategy
+
+Version: 	2.0
+Updated: 	03/09/14
+Includes: 	Major Bug fixes and removal of all Mochi Ads
+
+Description:
+In this sequel to the award-winning hit game "Papa's Pizzeria", you're headed back to the kitchen to run Papa Louie's new burger shop! You’ll have to take orders, grill burgers, add toppings, and serve the sandwiches to the waiting customers.
+
+Instructions:
+Use your mouse and follow the in-game instructions.
+
+
+
+

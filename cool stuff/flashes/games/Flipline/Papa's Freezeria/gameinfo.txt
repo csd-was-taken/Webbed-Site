@@ -1,0 +1,19 @@
+Name:		Papa's Freezeria
+Developer:	Flipline Studios
+Size:		640 x 480
+Screenshots:	http://www.flipline.com/games/papasfreezeria/screenshots.html
+Category:	Strategy
+
+Version: 	2.0
+Updated: 	03/09/14
+Includes: 	Major Bug fixes and removal of all Mochi Ads
+
+Description:
+You've just started an easy job at an ice cream shop on a laidback tropical island, but things get hectic when all of Papa Louie's loyal customers arrive on the island for vacation! In this summertime installment in Papa Louie's restaurant series, you’ll need to add ingredients, blend syrups and ice cream, add toppings, and serve the unique Freezeria Sundaes to your waiting customers.
+
+Instructions:
+Use your mouse and follow the in-game instructions.
+
+
+
+

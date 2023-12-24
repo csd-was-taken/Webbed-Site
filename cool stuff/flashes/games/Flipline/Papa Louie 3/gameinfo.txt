@@ -1,0 +1,20 @@
+Name:		Papa Louie 3
+Developer:	Flipline Studios
+Size:		700 x 416
+Screenshots:	http://www.flipline.com/games/papalouie3/screenshots.html
+Category:	Adventure / Platformer
+
+Version: 	1.1
+Updated: 	06/08/18
+Includes: 	Fixed issue with Loading Levels in Flash Player 30
+
+Description:
+Return to the Land of Munchmore in this third installment of the wildly-popular platformer series!  This time you'll be exploring the Land of Munchmore's sweeter side, but don't let the candy fool you, it's dangerous out there!  It's up to Captain Cori to rescue Papa Louie and the rest of the customers from Radley Madish, Luau LePunch, and an endless army of slimy Sundaesauruses.  Every customer you rescue becomes a new playable character, so use their unique weapons and skills to help you on your journey and stop the nefarious plans of the wild Radley Madish!
+
+
+Instructions:
+Use arrows keys to move and space bar to attack.  Follow the in-game tutorial for more information.
+
+
+
+

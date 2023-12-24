@@ -18,7 +18,7 @@ h2{
 	text-align: center;
 }
 a:link {
-  color: rgb(255, 0, 242);
+  color: rgb(91, 206, 250);
   text-decoration: none;
 }
 a:visited {
@@ -70,10 +70,18 @@ a[href^="http"]:not(:has(img)) {
 	background-image: url(assets/external-link.svg);
 	background-repeat: no-repeat;
 	background-position: top right;
-	padding-right: 0.5em;
+	padding-right: 0.6em;
 }
 
 .navtext * {
 	all: initial;
 	font-family: 'pixter-granularregular';
   }
+
+  .flashbang {
+	width: 32px;
+	height: 32px;
+	margin: 500px 0 0;
+	text-align: left;
+}
+

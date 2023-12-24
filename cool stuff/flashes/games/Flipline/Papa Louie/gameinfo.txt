@@ -1,0 +1,19 @@
+Name:		Papa Louie
+Developer:	Flipline Studios
+Size:		550 x 400
+Screenshots:	http://www.flipline.com/games/papalouie/screenshots.html
+Category:	Adventure / Platformer
+
+Version: 	2.0
+Updated: 	03/09/14
+Includes: 	Major Bug fixes and removal of all Mochi Ads
+
+Description:
+Join Papa Louie in his first platforming adventure, when his delicious pizzas turn into monsters and kidnap his customers!
+
+Instructions:
+Use your arrows keys to move, Space to jump, and Z and X to attack.  Follow the in-game tutorial for more information.
+
+
+
+
