@@ -211,3 +211,8 @@ const isReduced = window.matchMedia(`(prefers-reduced-motion: reduce)`) === true
 if (!isReduced) {
   oneko();
 }
+
+function clickSound(){
+  var sound = new Audio('/assets/oneko/minecraft_click.wav');
+  sound.play();
+  }

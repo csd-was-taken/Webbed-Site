@@ -73,6 +73,7 @@ a[href^="http"]:not(:has(img)) {
 	padding-right: 0.6em;
 }
 
+
 .navtext * {
 	all: initial;
 	font-family: 'pixter-granularregular';
@@ -83,4 +84,30 @@ a[href^="http"]:not(:has(img)) {
 	height: 32px;
 	margin: 500px 0 0;
 	text-align: left;
+}
+
+#onekocheck:checked ~ #oneko {
+	display: none;
+}
+
+#onekocheck {
+	display: none
+}
+#onekocheck + label {
+	content: url("/assets/oneko/oneko sit button.png");
+	width: 40px;
+	image-rendering: pixelated;
+	position: fixed;
+	top: 10px;
+	right: 10px;
+}
+#onekocheck:hover + label {
+	content: url("assets/oneko/oneko sit button hover.png");
+}
+#onekocheck:checked + label {
+	content: url("assets/oneko/oneko sleep button.png");
+}
+
+#onekocheck:checked:hover + label {
+	content: url("assets/oneko/oneko sleep button hover.png");
 }

@@ -9,9 +9,9 @@
 	<meta name="robots" content="index, follow">
 	<meta name="rating" content="general">
 
-    <title>Lise's silly lil' homepage</title>
-    <meta name="title" content="Lise's silly lil' homepage" />
-    <meta name="description" content="Just a homepage for your local transgender furry zoomer" />
+    <title>Lise's files</title>
+    <meta name="title" content="Lise's files" />
+    <meta name="description" content="A collection of files I have, and want to share" />
     <meta name="theme-color" content="#C39FF0">
 
     <link rel="stylesheet" href="/style.css">
@@ -19,15 +19,15 @@
     <!-- Twitter -->
     <meta property="twitter:card" content="summary_large_image" />
     <meta property="twitter:url" content="http://www.wii.gay/" />
-    <meta property="twitter:title" content="Lise's silly lil' homepage" />
-    <meta property="twitter:description" content="Just a homepage for your local transgender furry zoomer" />
+    <meta property="twitter:title" content="Lise's files" />
+    <meta property="twitter:description" content="A collection of files I have, and want to share" />
     <meta property="twitter:image" content="http://www.wii.gay/assets/banner_twitter.png" />
 
     <!-- Everything else(?) -->
     <meta property="og:type" content="website" />
     <meta property="og:url" content="http://www.wii.gay/" />
-    <meta property="og:title" content="Lise's silly lil' homepage" />
-    <meta property="og:description" content="Just a homepage for your local transgender furry zoomer" />
+    <meta property="og:title" content="Lise's files" />
+    <meta property="og:description" content="A collection of files I have, and want to share" />
     <meta property="og:image" content="http://www.wii.gay/assets/banner.png" />
 
     
@@ -35,13 +35,15 @@
 </head>
 <style>
 .mainbox {
-	display: flex;
-	flex-direction: row;
-	max-width: 1100px;
-	width: 90%;
-	margin: auto;
-	justify-content: center;
-	flex-wrap: wrap;
+	display: flex;  
+  flex-wrap: wrap;
+  margin: auto;
+  justify-content: center;
+  max-width: 1100px;
+  flex-direction: row;
+  font-size: 115%;
+  text-align: left;
+  margin-bottom: 5px;
 }
 .maintext {
 	margin-bottom: 5px;
@@ -65,13 +67,58 @@ img.wiipng{
   max-width: 1100px;
 }
 
+.box {
+  width: 900px;
+  height: 125px;
+  border: 3px solid rgb(115, 0, 255);
+
+}
+
+.box2 {
+  width: 125px;
+  height: 125px;
+  border: 3px solid rgb(115, 0, 255);
+  justify-self: left;
+}
+
+.box3 {
+  width: 775px;
+  height: 125px;
+  border-right: 3px solid rgb(115, 0, 255);
+  border-top: 3px solid rgb(115, 0, 255);
+  border-bottom: 3px solid rgb(115, 0, 255);
+}
+
+.gametitle{
+	text-align: left;
+	margin: 0.5em;
+	margin-top: 2px;
+}
+
+.gamebar{
+	margin: 0.5em;
+	margin-top: -15px;
+	width: 97%;
+	
+}
+
+.gametext{
+	margin: 0.5em;
+}
+
+.date{
+	text-align: right;
+	margin-right: 0.6em;
+	margin-top: -2.5em;
+}
+
 </style>
 <body>
 	<!--<input type="checkbox" id="onekocheck" onclick="clickSound()"></input>
 	<label for="onekocheck"></label>-->
 	<script src="/oneko.js"></script>
 	<script src="/phonealert.js"></script>
-        <h1>Lise's silly lil' homepage</h1>
+        <h1>Lise's files</h1>
 				<nav>
             <a title="where you were then!" href="/">home</a> |
             <a title="a whole bunch of images and video" href="/gallery.html">gallery</a> |
@@ -83,10 +130,21 @@ img.wiipng{
 		 <a target="_blank" title="the repo for this site on github" style="background-image: url(/assets/external-link.svg);background-repeat: no-repeat;background-position: top right;padding-right: 0.8em;" href="https://github.com/csd-was-taken/Webbed-Site">source</a>
 		</nav>
         <hr>
-	<div class="mainbox">
-		<p><a href="/files/doom_E1M1.zip">doom_E1M1.zip</a><br>
-		<a href="/files/Celeste 64 OST.zip">Celeste 64 OST.zip</a></p>
+		<div class="mainbox"><p>Some files I wanna host. Ranging from projects I've done, to asset rips from games, to archival</p></div>
+
+		<div class="mainbox">
+		
+			<div class="box2"><a href="/files/doom_E1M1.zip"><img src="/assets/Blog/e1m1hlpreview.png" height="125" width="125" alt="the courtyard area of E1M1"></a></div><div class="box3"><a href="/files/doom_E1M1.zip"><h2 class="gametitle">doom_E1M1.zip</h2></a><p class="date">12/23/2023</p><hr class="gamebar"><p class="gametext">See <a href="/blog/E1M1.html">my blog post.</a></p></div>
 		</div>
+		<div class="mainbox">
+		
+			<div class="box2"><a href="/files/Celeste 64 OST.zip"><img src="/assets/celeste 64 logo.png" height="125" width="125" alt="A mountain with shards of rock falling out from under it"></a></div><div class="box3"><a href="/files/Celeste 64 OST.zip"><h2 class="gametitle">Celeste 64 OST.zip</h2></a><p class="date">01/29/2024</p><hr class="gamebar"><p class="gametext">A rip of all 4 songs in the <a target="_blank" href="https://maddymakesgamesinc.itch.io/celeste64">Celeste 64</a> soundtrack, directly from the game files. The album on Lena Raine's bandcamp (pay what you want) can be found <a href="https://radicaldreamland.bandcamp.com/album/celeste-64-fragments-of-the-mountain-original-soundtrack">here.</a></p></div>
+		</div>
+		<div class="mainbox">
+		
+			<div class="box2"><a href="/files/Luigi Globe.zip"><video autoplay loop muted src="/assets/luigi.mp4" height="125" width="125" alt="A video of luigi's head spinning. He has a distressed expression"></a></div><div class="box3"><a href="/files/Luigi Globe.zip"><h2 class="gametitle">Luigi Globe.zip</h2></a><p class="date">02/03/2024</p><hr class="gamebar"><p class="gametext">A replacement of the WFC globe in Mario Kart Wii. I got this from a mediafire link on a random youtube video years ago, and I think the existing link is dead now. So no clue who made this</p></div>
+		</div>
+
     </div>
 	<hr>
 
