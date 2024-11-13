@@ -1,0 +1,68 @@
+Minecraft Castle
+a deathmatch experience by DocRock
+
+A map in a castle made with minecraft textures
+
+Map information:
+bsp name:	minecraft_castle.bsp
+skybox name:	mcsp_
+map released:	Dec 20 2015
+author:		DocRock
+author email:	docrock10@hotmail.com
+
+player models by	CreepItAll
+skybox by		CreepItAll
+sprites by		CreepItAll
+
+Build information:
+original map:	yes
+map based on:	minecraft
+
+utilities used:	valve hammer 3.5.2
+		wally
+		ms paint
+ 		goldwave
+	
+wadincluded:	minecraft.wad
+		textures found on google
+
+models used:	yes
+
+sounds used:	yes
+
+sprites used:	yes
+
+secrets?		I think so
+
+PC Specs:		Windows 7 Professional
+		Intel(R) Core(TM) i7-3930K
+		3.2 Ghz 
+		16gb memory 64 bit
+		
+Compile Time:	3 mins	
+
+map dedicated to:	babykitkat (always)
+
+beta testers:	babykitkat
+		Creepitall
+	
+Special Thanks:	Creepitall for continuing support, awesome reskinned player 				models and a brand new sky!  Thanks for all your time, 				Creep it is very much appreciated!  You rock!
+		
+installation:	minecraft_castle.bsp to valve/maps
+		minecraft_castle.txt to valve/maps
+		minecraft_castle.res to valve/maps
+		mcsp_ tga to valve/gfx/env
+		player models to valve/models/player
+		models to valve/models
+		sounds to valve/sound/minecraft
+		sprites to valve/sprites/minecraft
+
+
+
+
+		
+
+
+
+
+

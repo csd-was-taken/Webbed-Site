@@ -1,0 +1,46 @@
+
+Cheezy DamN
+=======================================================
+
+Map Name:               2021_chzdamn.bsp
+Date:                   Jan. 18, 2021
+Filesize:               9.73 mb (map 4.65 mb) 
+Author:                 Woody
+STEAMID:				STEAM_0:1:27178059
+Author email:           jonahwoodside@gmail.com
+Links:             		youtube.com/user/19kapow91
+						gamebanana.com/members/1307451
+						moddb.com/members/woodside
+						runthinkshootlive.com/user/?user_id=129509
+						
+Wad list:     			chzad.wad
+
+=======================================================
+LEVEL DESCRIPTION:
+
+8-32 Players
+New Textures          
+
+Map description:        Bits and pieces of Questionable Ethics and Surface Tension 
+                        with a lot of layout changes compressed into one HUGE map
+========================================================
+CONSTRUCTION:
+
+base map:               c2a4_ & c2a5_
+editor used:            J.A.C.K. 1.1.1064
+utilities used:         Zoner's Half-Life compile tools, GIMP, Wally, HL Texture Tools
+known bugs:             Pending...
+
+=======================================================
+INSTALLATION:
+
+Run Winzip and unzip chzdamn.zip.
+Place ALL CONTENTS into "Steamapps/common/Half-Life/valve"
+
+=======================================================
+SPECIAL THANKS:
+
+For Bill and everyone in the Cheezy Clan.
+Wouldn't have been possible without the original concept ideas and constant support
+from everyone involved!
+

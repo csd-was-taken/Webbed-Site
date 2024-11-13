@@ -1,0 +1,110 @@
+=======================================================
+Fallen Angel: a Half-Life Deathmatch Map by DocRock
+=======================================================
+
+Map Name:                       	fallen_angel.bsp
+Filesize:                       	10mb unzipped / 
+Author:                         	DocRock
+Author email:                   	docrock64@cox.net
+Homepage:		http://docrocksmaps.homestead.com/docmaps.html                    
+wadincluded in map:          	fa.wad
+
+=======================================================
+LEVEL DESCRIPTION:
+
+Single Player:                 	No
+Co-Op:                         	No
+Deathmatch:                     	Yes
+
+Suggested Players:             	5 - 10
+New Textures:                   	Yes 
+New Sounds:                     	Yes
+New Models:                     	Yes
+
+Map description:                	A Half-Life deathmatch map made for my LOML, babykitkat.																
+=======================================================
+CONSTRUCTION:
+
+base map:                       		None
+prefabs:                        		None
+editor used:                    	 	Hammer 3.5 beta
+utilities used:                 		Zoner's Half-Life compile tools, Paintshop Pro 7, 						Wally, Dragon UnPACKer 5, sound recorder, sprite fixer	
+known bugs:                     		None
+compile machine:                		Intel Pentium 4   2.53 GHZ
+compile time:                   		15 minutes
+prefabs used:			none
+
+=======================================================
+INSTALLATION:
+
+1. 	Run Winzip and unzip fallen_angel.zip.
+
+2. 	Open the fallen_angel folder and place the fallen_angel.bsp, 				fallen_angel.res, and fallen_angel.txt in your valve/maps folder.  
+
+3.	Place the 6 (six) grave256_sky.tga files into your valve/gfx/env folder.
+
+4.	Place the wav files in a folder called fa and place that in your valve/sound 			folder.
+
+5.	Place the boid.mdl in a folder called fa inside the valve/models folder.	
+
+=======================================================
+OTHER LEVELS BY DOCROCK:
+
+kitkat_kastle
+kad_honor
+squidsville
+kitkat_egyptian
+mario_air
+mario_killbox
+sandspyre
+kitkat_space
+greyscale
+kitkat_express
+kitkat_factory
+hardcore
+kitkat_beach
+kitkat_klub
+etc...
+
+=======================================================
+SPECIAL THANKS:
+
+To my babykitkat, my sweet love, this map is for you, as are all my maps.  You saved my life, and now make my life happier and happier by the day.  Thank you bebe for everything.
+
+BETA TESTERS:
+babykitkat
+
+
+OTHER THANKS:
+
+Cayle George		boid butterfly model
+
+
+
+sock  			grave256_ skybox
+	
+=======================================================
+DOC'S NEXT MAP....COMING SOON:
+
+
+=======================================================
+COPYRIGHT STUFF
+
+fallen_angel.bsp                	copyright  Oct 7, 2003  by DocRock
+
+Authors MAY use this level as a base to build additional levels as long 
+as you give me credit in your read.me as using this map as a base to 
+build your level.
+
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS. If you don't co-operate, then DON'T DISTRIBUTE IT
+IN ANY FORM.
+
+This LEVEL may be distributed ONLY over the Internet.
+
+You are NOT authorized to put this LEVEL on any CD or distribute it in
+any way without my written permission.
+
+PLEASE PLEASE PLEASE email me with any comments about this map or any 
+of my other maps because I love feedback good or bad...and I will do my 
+best to answer any and all emails regarding my maps.

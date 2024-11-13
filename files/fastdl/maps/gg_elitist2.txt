@@ -1,0 +1,70 @@
+gg_elitist2
+
+Map Name:		gg_elitist2.bsp
+Author:         DocRock
+Author email:  	docrock10@hotmail.com
+
+wadincluded:	gamers_global.wad
+
+===========================================================
+LEVEL DESCRIPTION:
+
+A map dedicated to the members of the Gamers-Clobal.com team and their game servers.
+
+gg_elitist2 is an update for gg_elitist (update by qUiCkSiLvEr)
+===========================================================
+CONSTRUCTION:
+
+base map:	none
+editor used:            Worldcraft 3.4 SDK
+utilities used:         Vluzacn's v29 compile tools, paint, wally
+
+compile machine:    Shuttle R8 Z1700 V2
+		Intel(R) Core(TM) i7-7700K CPU @4.20GHz 4.2 Ghz
+		64 GM Ram
+		64-bit, x64 based processor
+		Windows 10 Home
+compile time:         	2 minutes
+
+===========================================================
+INSTALLATION:
+
+Unzip gg_elitist2
+
+Take the 6 Moon.tga files and place them in
+	valve/gfx/env
+Take the gg_elitist2.bsp, gg_elitist2.res, and gg_elitist2.txt and place them in
+	valve/maps
+Take the game_global folder from the models folder and place it in
+	valve/models
+Take the game_global folder from the sound folder and place it in
+	valve/sound
+
+===========================================================
+SPECIAL THANKS:
+
+babykitkat
+	beta test and inspiration
+qUiCkSiLvEr
+	beta test and inspiration
+Serhat Ondes	
+	Thanks for making the incredible skybox texture Moon!
+Gamers_Global
+	Thanks for asking me to make this map for you.  It was great working with you guys
+	on this project and hope to do more in the future! 
+
+
+===========================================================
+COPYRIGHT STUFF 2021, 2023
+Gamers_Global.com
+
+gg_elitist2 by DocRock
+	Jan 2 2021, 07Feb2023
+
+
+
+
+
+
+
+

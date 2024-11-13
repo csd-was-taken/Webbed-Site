@@ -1,0 +1,73 @@
+***************************************************
+**** Hot Death Diner's Christmas Mapping Contest ****
+************* www.hotdeathdiner.com ***************
+***************************************************
+
+Description------------------------------------------------------------------------
+
+Title			: BLOODSHED
+Filename		: bloodshed.bsp
+Author			: 'Warpig' - Casey Hawley
+Email 			: warpig74@cox.net
+Homepage		: stu.aii.edu/~cah272/intro.htm
+Description		: Half-Life Deathmatch
+# of Players (size)	: 4 - 12 (medium)
+
+Introducing BLOODSHED, my entry into the Hot Death Diner's Christmas Mapping Contest. This map has a Roman-esque theme and contains a gladiator style arena with underground passageways and rooms. Secrets? You bet! Lots of ways to get around this map with weapons spread out to keep the action moving. The speeds can get a little high in the arena, but I already sacrificed a ton of detail to get them this low and I rufuse to cut any more. If you have a fairly decent computer, you shouldn't have any problems. Have fun! Watch for my next release!
+
+-da Pig
+
+
+Installation-----------------------------------------------------------------------
+
+Extract the contents of the .zip archive into your Half-Life\valve\maps directory.
+
+
+Play Information-------------------------------------------------------------------
+
+Deathmatch	: Yes
+Single Player	: No
+
+
+Map Information--------------------------------------------------------------------
+
+New Textures	: Yes
+New Sounds	: None
+
+Known Bugs	: None
+
+
+Construction-----------------------------------------------------------------------
+
+Base		: New
+Editor(s) Used	: WorldCraft 3.4 (Valve Hammer Editor)
+Compile Machine	: AMD K7 750, 416mb ram
+Compile Time	: 52 min. w/ Zoner's 2.5.1
+Creation Time	: Nov. 2002 - Dec. 2002
+
+
+Warpig's Mapography----------------------------------------------------------------
+
+2002 / BLOODSHED (HLDM - Hot Death Diner's Christmas Contest)
+2002 / BINGE (HLDM)
+2002 / DETOX (HLDM)
+2001 / SPASM_Remix (HLDM)
+2001 / SPASM (HLDM)
+1997 / Mansruin (Quake 2 DM - unreleased)
+1996 / The Pen (Quake: Final Arena)
+
+
+Additional Info--------------------------------------------------------------------
+
+Thanks to Valve for giving us Half-Life.
+
+Thanks to Hostile!
+
+
+
+Copyright & Permissions-----------------------------------------------------------
+
+This UNMODIFIED text file MUST accompany the BSP in any form of distribution. 
+
+These files may be distributed freely. If you've found a bug, have complaints, suggestions, or wish to make changes to this map, send me an email with your ideas. I appreciate any and all feedback. 
+

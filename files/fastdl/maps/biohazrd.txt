@@ -1,0 +1,169 @@
+
+                                  BIOHAZARD                     
+                     Half-Life Level by Tracer (Suren Pillay) 
+                                  March 1999
+
+===============================================================================
+
+ATTENTION:  I want to be a game programmer!  Don't hesitate to call if 
+            you need a:-
+            * C++, Layout, Pascal, Delphi, Visual Basic, Java, Envelop, 
+              Assembler or Binary programmer; 
+            * an artist skilled in the use of PaintShop Pro, LightWave, 
+              Extreme 3D and all the Kai stuff (pretty mutch everything), 
+            * a good level designer (who can learn your editor really fast)
+            * or a teaboy (hey, you gotta start somewhere)
+
+===============================================================================
+
+Filename                : BIOHAZ.BSP
+Email Address           : tracer01@iafrica.com
+Home Page               : http://users.iafrica.com/t/tr/tracer01
+Description             : A cracking deathmatch level desighed for Clan Fist's
+                          "Summer Sausage" contest.
+
+Additional Credits to   : * The Beast (Web Guy + Testing... from my Quake days)
+                          * Ben Morris (The original WorldCraft) 
+                          * Autolycus (Help learning the HL engine)
+                          * Valve (Umm, Three guesses)
+                          * Kaveer Sarjoo, Naseema Sayed and Shakira Sattar (Taking
+                            notes during all the lectures I slept through because 
+                            of the long nights I spent on this... and waking me up 
+                            afterwards!)
+
+===============================================================================
+* Play Information *
+
+Single Player           : Nope
+Cooperative             : Nope
+Deathmatch              : Nope... just kidding - of couse its DM!
+Number of Players       : 18 Starts, lots of powerups.  Should do 8 fine, 16 if 
+                          you like massacres.  Increase the respawn time for fewer 
+                          players. 4 should be really nice.
+Gamma Correction        : You may want a slightly higher gamma than usual... unless
+                          you, like me, like darkish, moody levels.
+
+* Construction *
+
+Base                    : None!
+Editor(s) used          : WorldCraft, Wally, Paint Shop Pro 5
+Known Bugs              : Umm... Roaches, Ants, Fishmoths... Oh! You mean                           
+                          problems... Just one - my computer keeps crashing 
+                          so I cant make the level bigger.
+Build Time              : No, I did not time myself, and I dont wanna know!
+Texture Wad used        : HALFLIFE.WAD, LIQUIDS.WAD
+Compile machine         : Pentium 200MMX 32mbRAM, Monster 3D, Mystique 220
+
+QBSP Time               : Dunno
+QCSG Time               :
+QRAD Time               : Dunno
+VIS (-level 4) Time     : There's a -level 4 switch?
+
+Brushes                 : Thousands
+Entities                : Hundreds
+Models                  : Tens
+
+* Greets *
+
+Salutations to all the guys I know, the guys who know me, and the guys
+who don't.  A big round of applause for Valve.
+
+* Other Info *
+
+This level is a deathmatch level.  Nuff said!
+
+* About the Author
+
+My name is Suren Pillay. I live in South Africa. I am 18.  
+I like brunettes (WOMEN ONLY). I beat the ZeusBot (Second only to 
+the ReaperBot), and Quake on Nightmare skill.  I am a DGAK (DOOM
+grand ass kicker: unofficially though). I have clocked Duke3D and 
+MDK, Quake2 and Half-Life on hard skill and I have so many DM frags 
+that I... I... Umm what does a guy do with frags anyway? My only 
+ambition is to be a game programmer/artist/designer! And that was 
+the story of my life!
+
+As I said before, I have created many levels before:-
+Cold Storage: Technological DM level, DoomTex.WAD (TRA_CSTR.ZIP) 
+Death in the Mix:  Gothic DM level, Fire&Ice.WAD  (TRA_DMIX.ZIP)  
+The Citadel of Savagery:  Medieval DM level, Medieval.wad (TRA_CSAV.ZIP)
+The Domain of Darkness:  Runic DM level, Metal.Wad (TRA_DOD.ZIP)
+HellStar:  Technological DM level, StarDust.Wad (TRA_HSTR.ZIP)
+Architecturally, they beat the hell out of the one room cock-ups that most
+people try to pass off as DM levels.  They offer a scintilating orgy
+of bloodlust, sadistic violence and pandemonic mayhem, and they play well 
+too!
+
+I prefer techno stuff - I have done LOTS of DOOM levels, but I haven't 
+released any.  I can't wait for Quake III, and then you will see my true
+talents, I hope! (If I get a decent system)
+
+If you want to release any utilities, levels, misson packs for Quake III 
+or any other game give me a call... I ain't got anything better to do!
+If you have a level editor for Quake III, I would be happy to help with 
+coding, testing, ideas, etc. 
+
+At the moment, I'm working on a crappy 200MMX which is too slow, has too 
+little memory, too little hard drive space and too small a monitor.  If the
+level is crap, blame the system... It crashed 27 times during design.
+
+* Hints * !!!SPOILER WARNING!!! !!!SPOILER WARNING!!! !!!SPOILER WARNING!!!
+
+The following is a strategy guide... it is only intended for inexperinced 
+players who will be shredded in this level!  
+
+The weapon locations are:
+* Crowbar... none
+* 9mm Pistol... none
+* 357 Magnum... the room next to the gauss room, near the longjump module,
+  overlooking the small slime pit.
+* 9MM Assult Rifle... all over the place, especially the central room.
+* Shotgun... all over the place, especially the storage room.
+* Crossbow... Sniper deck, overlooking the central room, opposite the 
+  small slime pit.
+* Gauss Rifle... gauss room, overlooking the small slime pit - use the 
+  longjump to get it
+* Egon... egon room, jump through the rotors to get it.
+* Rocket Launcher... container room jump on top of the containers - you 
+  need the longjump
+* Hornet Gun... in all the toxic slime.
+* Satchels, Snarks, Tripmines, Hand Grenades, AR Grenades... scattered 
+  around the stairwells.
+
+The point of this level was an experiment: readily availabe small arms and 
+ammo, scarce big weapons and ammo.  Should be interesting to say the least. 
+Health is readily available... I was trying to create a Quake DM6 style.
+
+* FAQ * 
+
+Some dumb questions I have been asked by "friends":
+
+* Why is the rocket so hard to get?  You aren't supposed to get it!  Duh!
+* Why is the gauss so hard to get?  You aren't supposed to get it!  Duh!
+* Why is the egon so hard to get?  Do you see a pattern developing?
+* Why is the level designed this way and not that way?  If you like a 
+  level a certain way, make your own!
+* Why can't I afford a decent system? Because one dollar makes 750 000 Rands 
+  (S.A. Currency) and chips are pretty expensive down here!
+
+* Copyright / Permissions *
+
+You may distribute this level, but subject to the conditions below.
+1. You may not distribute this level for profit, via
+   its inclusion in a game or other related work.  If you wish to do 
+   so, you must obtain the written permission of the author, Suren Pillay.
+   This level may be included in any compilation of levels, but only
+   if in compliance with points 3 and 4.
+2. The textures in this level are either copyright by Valve Software or by
+   Suren Pillay.  You may not use any of the textures owned by Suren Pillay
+   unless written permission has been granted and only if in compliance with 
+   points 3 and 4.
+2. This level may be freely transmitted by electronic media, and played
+   online but only if in compliance with points 3 and 4.
+3. You may not distribute this level without this text file.
+4. You may not alter this level or text file in any way without the written 
+   permission of the author.
+5. This level is copyright (Suren Pillay 1999)
+   Unauthorised duplication prohibited. All rights reserved.
+
+PS:  This was typed in +- 5min so please xcuze the typhos!)

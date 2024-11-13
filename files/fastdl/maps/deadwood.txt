@@ -1,0 +1,88 @@
+======================================
+Deadwood : a Half-Life Deathmatch Experience by DocRock
+======================================
+Map Name:                       	Deadwood.bsp
+Filesize:                       	6.26 mb unzipped
+Author:                         	DocRock
+Author email:                   	docrock10@hotmail.com
+                  
+wadincluded in map:          	xt_desperados.wad, mapper.wad
+
+======================================
+LEVEL DESCRIPTION:
+
+Single Player:                 	No
+Co-Op:                         	No
+Deathmatch:                     	Yes
+
+Suggested Players:             	6 - 12
+New Textures:                   	Yes 
+New Sounds:                     	Yes
+New Models:                     	Yes 
+No. of Rats:		1
+No. of Secrets:		3
+Map Description:		A desolate western ghost town 			
+			riddled with bullets.												
+======================================
+CONSTRUCTION:
+
+base map:                       	None
+prefabs:                        	None
+editor used:                    	Hammer 3.5
+utilities used:                 	Zoner's Half-Life compile tools, Paintshop Pro 7, 
+			Wally, Half-Life model viewer	
+known bugs:                     	None
+compile machine:                	Intel Pentium 4   2.53 GHZ
+compile time:                   	20 minutes
+
+======================================
+INSTALLATION:
+
+1. Run Winzip and unzip Deadwood.rar
+
+2. Open the Deadwood folder and place the Deadwood.bsp, Deadwood.res, and Deadwood.txt in your valve/maps folder.  
+
+3. Place the 6 (six) desnoon.tga files into your valve/gfx/env folder.
+
+4. Put the folder called Deadwood with wav files in it in the valve/sound folder.
+
+5. Put the folder called Deadwood with model files in it in the valve/models folder.
+
+
+======================================
+OTHER LEVELS BY DOCROCK:
+
+2012 maps:
+logo_2012, rockpit_2
+
+Or visit GameBanana for my latests releases
+http://www.gamebanana.com/members/177329
+
+======================================
+SPECIAL THANKS:
+
+To my babykitkat, my lover, my sweetheart, my wife.  I love you!!  My #1 fan, thanks baby for playtesting and helping me 
+with this awesome map!  I DEDICATE THIS TO YOU!
+
+Thanks to CreepItAll for the models, sprites, wav files, and other helpful insight into the map.  
+
+BETA TESTERS:
+babykitkat
+CreepItAll
+	
+======================================
+DOC'S NEXT MAP....COMING SOON:
+
+Mario_Castle_Kart
+======================================
+MAP BACKGROUND
+
+This map was built originally as a base for a counter-strike: source map.  Players may enjoy
+the layout as a possible Team Fortress or OP4 map.
+======================================
+Copyright March 21, 2012 by DocRock
+
+Authors MAY use this level as a base to build additional levels as long 
+as you give me credit in your read.me as using this map as a base to 
+build your level.
+

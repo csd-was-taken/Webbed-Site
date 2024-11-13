@@ -1,0 +1,90 @@
+Title		: Hexery
+Author		: =|[Gc2]|=Bedwetting Type
+Original Author	: =|[Gc2]|=W1s3.wad
+Design		: =|[Gc2]|=B(o  )(  o)Bz
+Email		: bedwetting_type@hotmail.com
+Website         : http://bedwettingtype.tripod.com
+Date		: October 9, 2003
+Game		: Half-Life
+
+--------------------------------
+Description
+--------------------------------
+A medium-sized arena with a techno-alien theme.  The map is designed for fast-paced action, and it works well as a duel map.  Players start out with a full weapons loadout and a long-jump module, which means less time searching, and more time fighting. =)  
+
+(Hexery is a remake of Nefarious, a map that W1s3.wad made but never got around to releasing.)
+
+--------------------------------
+Installation Instructions
+--------------------------------
+Unzip everything into your "valve\maps" directory (e.g. "C:\Steam\SteamApps\<email_address>\half-life\valve\maps").  If you don't have a "maps" directory, create one.
+
+--------------------------------
+Technical Info
+--------------------------------
+Single Player	: No
+Cooperative	: No
+Deathmatch	: Yes
+Teamplay	: No
+Difficulty	: No
+New Textures	: Yes
+New Sounds	: No
+CD Track #	: None
+Files		: HEXERY.BSP, HEXERY.TXT.
+Recom. Players	: 2-8
+Min. Hardware	: 300 MHz
+Recom. Hardware	: 500 MHz
+
+--------------------------------
+Construction
+--------------------------------
+Base		: Based on Nefarious by =|[Gc2]|=W1s3.wad.
+Build Time	: A few weeks.
+Prefabs Used	: None
+Editor(s) Used	: Valve Hammer Editor 3.5 beta, Wally
+Other Utilities : Paint Shop Pro 5.0, Photoshop 4.0, Zoner's Half-Life Tools
+Known Bugs	: The tau cannon backfires when you shoot at certain walls.
+Compile Machine : AMD Athlon XP 1600 (1.4GHz), 512MB RAM
+Compile Time	: 44 mins, 56 secs
+
+--------------------------------
+Credits
+--------------------------------
+Valve		: Half-Life and Worldcraft
+=|[GC2]|=B(o  )(  o)Bz	: Concept, arranging playtests, and providing input
+=|[GC2]|=Silentrunner007: Donating his server for playtesting. http://www.squidsville.com
+=|[GC2]|=W1s3.wad	: Making the original Nefarious, and being the kickass guy that he is. =)
+Genghis Cafe 2 Clan	: Playtesting and support
+Randy Reddig	: Textures.  Lots of textures.  http://www.shaderlab.com
+Senn		: Textures.  http://www.planetquake.com/senn
+Than		: Textures.  http://www.planetquake.com/cesspit
+Kevin Hill	: Textures.  http://planetquake.com/painter
+Yves Allaire	: Textures.  http://planetquake.com/hfx
+(In case you haven't figured it out by now, I like hunting for textures.)
+
+
+Special thanks to anyone who plays the map.
+
+Sorry if I forgot someone here.
+
+--------------------------------
+Copyrights/Permissions
+--------------------------------
+Half-Life and all its original media are copyrights of Valve software.
+Valve Hammer Editor 3.5 beta is a copyright of Valve software.
+All textures are copyrights of their respective painters.
+
+Authors MAY use this map as a concept for building their own maps.  It's a hockey rink, after all.
+
+You MAY NOT use the textures in the BSP file without my written permission.
+
+You MAY distribute this map amongst your friends, on the internet, or on another electronic service as long as there is NO CHARGE, except for the costs of using the service.
+
+You MAY distribute your own Frag'N'Fly config files, waypoint files, location files, etc. for use in different mods.
+
+You MAY NOT include this map in any commercial map packs or CDs without my written permission.
+
+You MAY put on women's clothing and hang around in bars.
+
+--------------------------------
+Guns don't kill people, trigger_hurt's kill people.

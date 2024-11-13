@@ -1,0 +1,41 @@
+------General Info--------------------------------------------
+
+Date		:  April 05, 2011
+Title           :  dm_snow
+Filename        :  dm_snow.bsp
+Filesize	:  474 kb 
+Author          :  serono
+Author Email    :  de.ssl@hotmail.com	
+
+
+------Map Desciption-------------------------------------------------
+Original Idea from PUNK! from fy_snow (Counter-Strike).
+------Play Information-----------------------------------------------
+
+Deathmatch      :  yes
+Single Player   :  NO
+How Many Players:  2-8
+
+------Construction---------------------------------------------------
+
+Editor(s) used  :  VHE3.4 Zoner's HL tools 2.4.2
+Time to Complete:  2 Hours
+Compile Machine :  Amd Quad  3.2, 3gb RAM
+Compile time    :  30 secs(-extra for hlrad) 
+Playtest time   :  1 day
+
+Custom Tex's	:  Yes (fy_snow)
+
+------Map Instructions-----------------------------------------------
+
+Unzip this file in your half-life/valve/maps directory, or Adrenaline Gamner Directory.  
+Descomprime este zip sobre la carpeta de Half-Life o Adrenaline Gamer.
+------Thanks/Credits-------------------------------------------------
+
+Original Idea from PUNK! from fy_snow (Counter-Strike)
+
+
+
+
+
+

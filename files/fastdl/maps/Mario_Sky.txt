@@ -1,0 +1,105 @@
+=======================================================
+Mario_Sky: a Half-Life Deathmatch Experience by DocRock
+=======================================================
+
+Map Name:                       	mario_sky.bsp
+Filesize:                       	5.78 mb un-zipped 
+Author:                         	DocRock
+Author email:                   	docrock10@cox.net
+Homepage:		http://docrocksmaps.homestead.com/docmaps.html                    
+wadincluded in map:          	mario.wad & newmario.wad
+
+=======================================================
+LEVEL DESCRIPTION:
+
+Single Player:                  No
+Co-Op:                        	 No
+Deathmatch:                     Yes
+
+Suggested Players:             6 - 12
+New Textures:                   Yes 
+New Sounds:                     Yes
+New Models:                     Yes 
+
+Map description:                A Half-Life deathmatch map set in the magical area of Nintendo 
+			64's Mario World	
+					
+=======================================================
+CONSTRUCTION:
+
+base map:                       		None
+prefabs:                        		None
+editor used:                    	 	Hammer 3.5
+utilities used:                 		Zoner's Half-Life compile tools	
+known bugs:                     		None
+compile machine:                		Alienware AMD Athlon 64X2 Dual Core Processor 5600+
+compile time:                   		45 minutes
+
+=======================================================
+INSTALLATION:
+
+1. 	Run Winzip and unzip mario_sky.zip.
+
+2. 	Open the mario_sky folder and place the mario_sky.bsp, mario_sky.res, and 	
+	mario_sky.tx in your valve/maps folder.  
+
+3.	Place the 6 (six) grass.tga files into your valve/gfx/env folder.
+
+4.	Place the mario7 sound folder in valve/sound folder.
+
+5.	Place the cloud.spr and spinning_coin.spr in your valve/sprites folder.
+
+6.	Place cannon_guy.mdl inside the valve/models folder.
+
+=======================================================
+OTHER LEVELS BY DOCROCK:
+
+Visit www.homestead.com/docrocksmaps for all of DocRock's released maps.
+
+=======================================================
+SPECIAL THANKS:
+
+To my babykitkat, my lover, my sweetheart, my wife.  I love you!!  My #1 fan, thanks baby
+for playtesting and helping me with this awesome map!  I DEDICATE THIS TO YOU!
+
+Thanks to qUiCkSiLvEr for the awesome Pinky model and everything else he's done for me;
+and for the whole Half-Life community.
+
+BETA TESTERS:
+babykitkat, qUiCkSiLvEr
+
+OTHER THANKS:
+
+JoNaS           			grass skybox     Jonas_Jax@hotmail.com
+	
+=======================================================
+DOC'S NEXT MAP....COMING SOON:
+
+Mario_Rats
+=======================================================
+OTHER INFO
+
+Mario_Sky © Dec 23, 2007
+
+Authors MAY use this level as a base to build additional levels as long 
+as you give me credit in your read.me as using this map as a base to 
+build your level.
+
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS. If you don't co-operate, then DON'T DISTRIBUTE IT
+IN ANY FORM.
+
+This map includes textures used in other Half-Life modifications as well as textures
+used in other PC games.  It is not my intention to steal these textures and use them
+for personal gain.  I use these textures because I think they are very well done and
+am honored to use them.  Please do not be offended that I borrowed your
+textures if you are the author of them.
+
+This LEVEL may be distributed ONLY over the Internet.
+
+You are NOT authorized to put this LEVEL on any CD or distribute it in
+any way without my written permission.
+
+PLEASE PLEASE PLEASE email me with any comments about this map or any 
+of my other maps because I love feedback good or bad...and I will do my 
+best to answer any and all emails regarding my maps.

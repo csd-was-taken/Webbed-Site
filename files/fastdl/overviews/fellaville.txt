@@ -1,0 +1,14 @@
+// overview description file for fellaville.bsp
+
+global 
+{
+	ZOOM	2.05
+	ORIGIN	16.00 	-210	-4.00
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/fellaville.bmp"
+	HEIGHT	-5.00
+}
